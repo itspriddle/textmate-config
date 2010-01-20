@@ -1,0 +1,4 @@
+{
+	"^d" = "nextCompletion:";						/* escape */
+	"^D" = "previousCompletion:";				/* shift-escape */
+}
