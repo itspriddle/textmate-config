@@ -1,4 +1,4 @@
 {
-	"^d" = "nextCompletion:";						/* escape */
-	"^D" = "previousCompletion:";				/* shift-escape */
+  /* CTRL+d, complete word */
+  "^d" = "nextCompletion:";
 }
