@@ -22,9 +22,6 @@
 [submodule "Bundles/GitHub.tmbundle"]
 	path = Bundles/GitHub.tmbundle
 	url = git://github.com/drnic/github-tmbundle.git
-[submodule "Bundles/Ack.tmbundle"]
-	path = Bundles/Ack.tmbundle
-	url = git://github.com/protocool/ack-tmbundle.git
 [submodule "Bundles/Josh's Stuff.tmbundle"]
 	path = Bundles/Josh's Stuff.tmbundle
 	url = git@github.com:itspriddle/my-textmate-bundle.git
