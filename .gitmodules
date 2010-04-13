@@ -9,7 +9,7 @@
 	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
 [submodule "Bundles/rsync.tmbundle"]
 	path = Bundles/rsync.tmbundle
-	url = git@github.com:itspriddle/tm-rsync.git
+	url = git://github.com/itspriddle/tm-rsync.git
 [submodule "Bundles/jQuery.tmbundle"]
 	path = Bundles/jQuery.tmbundle
 	url = git://github.com/kswedberg/jquery-tmbundle.git
