@@ -37,3 +37,6 @@
 [submodule "Bundle/rsync.tmbundle"]
 	path = Bundle/rsync.tmbundle
 	url = git://github.com/itspriddle/tm-rsync.git
+[submodule "Bundles/HTML5.tmbundle"]
+	path = Bundles/HTML5.tmbundle
+	url = git://github.com/johnmuhl/html5.tmbundle.git
