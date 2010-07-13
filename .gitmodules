@@ -43,3 +43,6 @@
 [submodule "Bundles/Titanium Mobile.tmbundle"]
 	path = Bundles/Titanium Mobile.tmbundle
 	url = git://github.com/subtleGradient/JavaScript-Appcelerator-Titanium-Mobile.tmbundle.git
+[submodule "Bundles/CoffeeScript.tmbundle"]
+	path = Bundles/CoffeeScript.tmbundle
+	url = git://github.com/jashkenas/coffee-script-tmbundle.git
