@@ -60,7 +60,7 @@ Restart TextMate.
 ## Updating Submodules
 
     cd ~/Library/Application\ Support/TextMate
-    git submodule foreach git pull
+    rake update
 
 
 Restart TextMate
