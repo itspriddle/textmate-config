@@ -46,3 +46,6 @@
 [submodule "Bundles/CoffeeScript.tmbundle"]
 	path = Bundles/CoffeeScript.tmbundle
 	url = git://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "Bundles/Sinatra.tmbundle"]
+	path = Bundles/Sinatra.tmbundle
+	url = git://github.com/foca/sinatra-tmbundle.git
