@@ -52,3 +52,9 @@
 [submodule "Bundles/Shoulda.tmbundle"]
 	path = Bundles/Shoulda.tmbundle
 	url = git://github.com/drnic/ruby-shoulda-tmbundle.git
+[submodule "Themes/WebPreview/github"]
+	path = Themes/WebPreview/github
+	url = git://github.com/kneath/github_textmate_preview.git
+[submodule "Bundles/Bundler.tmbundle"]
+	path = Bundles/Bundler.tmbundle
+	url = git://github.com/drnic/Bundler.tmbundle.git
