@@ -49,3 +49,6 @@
 [submodule "Bundles/Bundler.tmbundle"]
 	path = Bundles/Bundler.tmbundle
 	url = git://github.com/drnic/Bundler.tmbundle.git
+[submodule "Bundles/rsync.tmbundle"]
+	path = Bundles/rsync.tmbundle
+	url = git://github.com/itspriddle/rsync-tmbundle.git
