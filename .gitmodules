@@ -1,15 +1,9 @@
-[submodule "Bundles/LESS.tmbundle"]
-	path = Bundles/LESS.tmbundle
-	url = git://github.com/appden/less.tmbundle.git
 [submodule "Bundles/Git.tmbundle"]
 	path = Bundles/Git.tmbundle
 	url = git://github.com/timcharper/git-tmbundle.git
 [submodule "Bundles/Ruby on Rails.tmbundle"]
 	path = Bundles/Ruby on Rails.tmbundle
 	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
-[submodule "Bundles/rsync.tmbundle"]
-	path = Bundles/rsync.tmbundle
-	url = git://github.com/itspriddle/tm-rsync.git
 [submodule "Bundles/jQuery.tmbundle"]
 	path = Bundles/jQuery.tmbundle
 	url = git://github.com/kswedberg/jquery-tmbundle.git
@@ -34,9 +28,6 @@
 [submodule "Bundles/Android.tmbundle"]
 	path = Bundles/Android.tmbundle
 	url = git://github.com/peon/Android.tmbundle.git
-[submodule "Bundle/rsync.tmbundle"]
-	path = Bundle/rsync.tmbundle
-	url = git://github.com/itspriddle/tm-rsync.git
 [submodule "Bundles/HTML5.tmbundle"]
 	path = Bundles/HTML5.tmbundle
 	url = git://github.com/johnmuhl/html5.tmbundle.git
