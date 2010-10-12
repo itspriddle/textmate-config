@@ -61,3 +61,6 @@
 [submodule "Bundles/HTML.tmbundle"]
 	path = Bundles/HTML.tmbundle
 	url = git://github.com/textmate/html.tmbundle.git
+[submodule "Bundles/JSON.tmbundle"]
+	path = Bundles/JSON.tmbundle
+	url = git://github.com/textmate/json.tmbundle.git
