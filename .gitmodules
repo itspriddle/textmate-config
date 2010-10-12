@@ -52,3 +52,6 @@
 [submodule "Bundles/rsync.tmbundle"]
 	path = Bundles/rsync.tmbundle
 	url = git://github.com/itspriddle/rsync-tmbundle.git
+[submodule "Bundles/PHP.tmbundle"]
+	path = Bundles/PHP.tmbundle
+	url = git://github.com/textmate/php.tmbundle.git
