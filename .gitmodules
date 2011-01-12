@@ -64,3 +64,12 @@
 [submodule "Bundles/JSON.tmbundle"]
 	path = Bundles/JSON.tmbundle
 	url = git://github.com/textmate/json.tmbundle.git
+[submodule "Bundles/Shell Script.tmbundle"]
+	path = Bundles/Shell Script.tmbundle
+	url = git://github.com/textmate/shellscript.tmbundle.git
+[submodule "Bundles/CSS.tmbundle"]
+	path = Bundles/CSS.tmbundle
+	url = git://github.com/itspriddle/css-tmbundle.git
+[submodule "Bundles/CSS Group.tmbundle"]
+	path = Bundles/CSS Group.tmbundle
+	url = git://github.com/webPragmatist/css-group-tmbundle.git
