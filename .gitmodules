@@ -76,3 +76,6 @@
 [submodule "Bundles/Node.JS.tmbundle"]
 	path = Bundles/Node.JS.tmbundle
 	url = git://github.com/drnic/javascript-node.tmbundle.git
+[submodule "Bundles/Jekyll.tmbundle"]
+	path = Bundles/Jekyll.tmbundle
+	url = git@github.com:itspriddle/jekyll-tmbundle
