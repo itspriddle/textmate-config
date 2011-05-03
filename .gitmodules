@@ -73,3 +73,6 @@
 [submodule "Bundles/CSS Group.tmbundle"]
 	path = Bundles/CSS Group.tmbundle
 	url = git://github.com/webPragmatist/css-group-tmbundle.git
+[submodule "Bundles/Node.JS.tmbundle"]
+	path = Bundles/Node.JS.tmbundle
+	url = git://github.com/drnic/javascript-node.tmbundle.git
