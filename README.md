@@ -1,6 +1,7 @@
 # Josh's TextMate Config
 
-My TextMate config
+My former TextMate config. This is no longer maintained. I use Vim now, and
+keep a Vim config at <https://github.com/itspriddle/vim-config>
 
 
 ## Included
